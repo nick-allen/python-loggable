@@ -1,3 +1,5 @@
+"""Simple extensions and helpers for the builtin Python logging module"""
+
 import logging
 
 __version__ = '0.1.0'
